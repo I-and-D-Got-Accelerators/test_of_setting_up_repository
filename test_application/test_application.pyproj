@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>test_application</Name>
     <RootNamespace>test_application</RootNamespace>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
