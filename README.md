@@ -1,1 +1,0 @@
-# test_of_setting_up_repository
